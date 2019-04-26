@@ -1,2 +1,0 @@
-# JBot
-Created with CodeSandbox
